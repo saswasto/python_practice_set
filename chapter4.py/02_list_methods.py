@@ -1,0 +1,15 @@
+friends = ["john", "pat", "gary", "michael",0,5.36]
+print(friends)
+friends.append("Sasoto")
+print(friends)
+l1=[1,3,70,39,56,23,10,2,4,5,6,7,8,9]
+l1.sort()
+print(l1)
+l1.reverse()
+print(l1)
+l1.insert(3,100)
+print(l1)
+l1.pop(4)
+print(l1)
+l1.remove(39)
+print(l1)
