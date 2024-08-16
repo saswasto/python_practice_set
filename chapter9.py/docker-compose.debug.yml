@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  chapter9:
+    image: chapter9
+    build:
+      context: .
+      dockerfile: ./Dockerfile

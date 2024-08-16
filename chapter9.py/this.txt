@@ -1,0 +1,5 @@
+it is a jank way to do this
+what a jank way to do this
+jank way to do this`;
+best  = 'this';
+console.log(reverseString(str));
