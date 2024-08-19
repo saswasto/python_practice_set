@@ -6,9 +6,13 @@ I have divided it in many chapters and projects.
 Chapter 1: Modules, Comments & pip
 
 Writing the first Python program
+
 Understanding modules
+
 Using pip for package management
+
 Using Python as a calculator
+
 Comments in Python
 
 Chapter 2: Variables and Data Types
